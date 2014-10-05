@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsApplication2">
+</Property><Property Name="Solution File" Value="C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2.sln">
+</Property><Property Name="Date" Value="13 January 2011">
+</Property><Property Name="Time" Value="20:38">
+</Property></Properties><Event ErrorLevel="0" Project="WindowsApplication2" Source="WindowsApplication2\WindowsApplication2.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsApplication2" Source="WindowsApplication2\WindowsApplication2.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsApplication2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsApplication2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication2" Source="WindowsApplication2\WindowsApplication2.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

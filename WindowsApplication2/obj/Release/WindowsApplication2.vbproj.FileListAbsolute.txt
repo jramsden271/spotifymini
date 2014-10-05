@@ -1,0 +1,93 @@
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.config
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.manifest
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.application
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.pdb
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.xml
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe.manifest
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.application
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.xml
+C:\Users\James\Desktop\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.pdb
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.config
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.xml
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.pdb
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.manifest
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.application
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.pdb
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.xml
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\GenerateResource.read.1.tlog
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\GenerateResource.write.1.tlog
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe.manifest
+C:\Users\James\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.application
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.config
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.xml
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.pdb
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.manifest
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.application
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.pdb
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.xml
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\GenerateResource.read.1.tlog
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\GenerateResource.write.1.tlog
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe.manifest
+C:\Users\James\Dropbox\Documents\Bits and pieces\vb2010 projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.application
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.config
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.xml
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.pdb
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.manifest
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.application
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.pdb
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.xml
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Form1.resources
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Resources.resources
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe.manifest
+C:\Dropbox\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.application
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.config
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.xml
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.pdb
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.manifest
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.application
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.pdb
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.xml
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe.manifest
+C:\Users\jramsden\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.application
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.config
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.xml
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.pdb
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Form1.resources
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication1.Resources.resources
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe.manifest
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.application
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.exe
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.pdb
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\bin\Release\Spotify Mini.xml
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.exe.manifest
+D:\OneDrive\Documents\VB projects\save 1\WindowsApplication2\WindowsApplication2\obj\Release\Spotify Mini.application
+D:\OneDrive\Documents\VB projects\save 1\SpotifyMini\WindowsApplication2\bin\Release\Spotify Mini.exe.config
+D:\OneDrive\Documents\VB projects\save 1\SpotifyMini\WindowsApplication2\obj\Release\Spotify Mini.exe
+D:\OneDrive\Documents\VB projects\save 1\SpotifyMini\WindowsApplication2\obj\Release\Spotify Mini.xml
+D:\OneDrive\Documents\VB projects\save 1\SpotifyMini\WindowsApplication2\obj\Release\Spotify Mini.pdb
