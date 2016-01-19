@@ -1,4 +1,4 @@
-﻿' Spotify API V0.01 beta - a very quick First draft
+' Spotify API V0.01 beta - a very quick First draft
 ' © august 3 2009 by Steffest
 ' This code is free to use in any way you want and comes with NO WARRANTIES
 ' tested with Spotify 0.3.18
@@ -54,8 +54,9 @@ Public Class spotify
     End Function
 
     Public Function PlayPause() As Boolean
-        SendMessage(w, WM_KEYDOWN, Keys.Space, 0)
-        SendMessage(w, WM_KEYUP, Keys.Space, 0)
+        SetForegroundWindow(w)
+        keybd_event(Keys.Space, &H1D, 0, 0)
+        keybd_event(Keys.Space, &H1D, KEYEVENTF_KEYUP, 0)
     End Function
 
     Public Function PlayPrev() As Boolean
@@ -147,9 +148,8 @@ Public Class spotify
         Dim lpText As String
         lpText = New String(Chr(0), 200)
         Dim intLength As Integer = GetWindowText(w, lpText, lpText.Length)
-        If (intLength <= 0) OrElse (intLength > lpText.Length) Then Return "Not Playing"
-        Dim strTitle As String = lpText.Substring(0, intLength)
-        strTitle = Mid(strTitle, 11)
+        If (intLength <= 0) OrElse (intLength > lpText.Length) OrElse Not (lpText.IndexOf("Spotify") = -1) Then Return "Not Playing"
+        Dim strTitle As String = lpText
         Return strTitle
     End Function
 
