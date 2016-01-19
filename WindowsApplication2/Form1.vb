@@ -1,4 +1,4 @@
-﻿Public Class Form1
+Public Class Form1
 
     Dim MySpotify As New spotify 'for api
     Dim SearchBox As New SearchBox
@@ -226,9 +226,7 @@
 
         'find location of hyphen
         If MySpotify.Paused = False Then
-            For Me.tempval = 0 To Len(tempstring) - 1
-                If tempstring.Substring(tempval, 1) = "–" Then Exit For
-            Next
+            tempval = tempstring.IndexOf("-")
         End If
 
         'detect artist and track name, and assign to labels
@@ -616,5 +614,3 @@
         TimerExit.Enabled = True
     End Sub
 End Class
-
-
